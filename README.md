@@ -1,6 +1,6 @@
 <h2 align="left">Olá👋! Eu sou o José Victor!</h2>
 
-`Desenvolvedor Front - end`
+`Desenvolvedor Front end`
 
 ###
 
